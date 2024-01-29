@@ -1,2 +1,2 @@
-# asobiba-maui
-# sample project evaluating maui with htmx
+# asobiba-maui-blazor
+sample project evaluating maui with blazor
